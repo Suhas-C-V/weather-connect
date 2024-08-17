@@ -188,7 +188,7 @@ GET /weather/forecast/London/summary
 
 **Example Request:**
 ```bash
-GET /weather/observation/history/51.5074/-0.1278
+GET /weather/observation/history/51.5074/41.1278
 ```
 
 **Example Response:**
