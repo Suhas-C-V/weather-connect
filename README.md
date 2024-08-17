@@ -1,6 +1,5 @@
 # Getting Started
 
----
 ### Setting Up Guide for Java Spring Boot Maven Project
 
 #### Prerequisites
